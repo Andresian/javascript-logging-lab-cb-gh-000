@@ -1,3 +1,3 @@
-console.log(huehue)
 console.error(yay)
+console.log(huehue)
 console.warn(boy)
