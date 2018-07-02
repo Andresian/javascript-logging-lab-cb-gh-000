@@ -1,3 +1,3 @@
 console.error(yay)
-console.log("huehue")
+console.log("I would be a logger.") // get it?
 console.warn("boy")
